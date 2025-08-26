@@ -10,7 +10,7 @@ Follow the sequence of lights and sounds — repeat it correctly to advance to t
 - 🔢 Sequence increases with each level  
 - 💡 Classic Simon Game style design  
 - 📱 Responsive layout (works on desktop & mobile)  
-- ⚡ Built with **plain HTML, CSS, JS & jQuery**
+- ⚡ Built with **HTML, CSS, JS & jQuery**
 
 ---
 
